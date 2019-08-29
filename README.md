@@ -11,4 +11,3 @@
 1. My favorite tv show is **Jersey Shore**
 
 1. My favorite YouTube channel is *Safiya Nygard*
-
