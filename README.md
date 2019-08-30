@@ -1,6 +1,6 @@
 # Introduction to Me
 
-I don't know what you did with your branches.  I'm going to look more into it next week.  Something is off and I can't get them to merge correctly.
+I don't know what you did with your branches.  I fixed it using the Desktop (command line would be easier, but wanted to see if I could do it with desktop).  We need to figure out what you did though, b/c something was off. 
 
 1. My name is Vania Barajas
 
